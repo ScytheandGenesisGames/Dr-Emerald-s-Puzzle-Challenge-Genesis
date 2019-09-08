@@ -9,5 +9,5 @@ A Genesis Homebrew game made with SGDK and this is inspired by Dr. Robotnik's Me
 
 This game is meant to be my own version of Dr. Robotnik's Mean Machine with my characters and story of how Anna Emerald is using the beans that Alex needs for his medicine he makes.
 
-### When this will be done?
+## When this will be done?
 Whenever I have learned C and the power of SGDK, and once I know how to get a rom going and stuff.
